@@ -1,0 +1,4 @@
+*.log
+!EsraaWorkPC2Special.log
+node_packs/
+EsraaWorkPC2Special/
